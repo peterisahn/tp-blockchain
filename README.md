@@ -2,8 +2,6 @@
 **Materia:** TD III - Algoritmos y Estructuras de Datos
 **Temática Principal:** Optimización Algorítmica, TAD y Análisis de Complejidad
 
----
-
 ## Descripción del Proyecto
 
 Este proyecto consiste en la optimización y reestructuración de un prototipo funcional de **billetera virtual (Wallet)** que opera sobre una **blockchain rudimentaria**. 
