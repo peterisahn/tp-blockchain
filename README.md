@@ -1,7 +1,6 @@
 # Trabajo Práctico: Tipos Abstractos de Datos y Complejidad Computacional
 
 **Materia:** TD III - Algoritmos y Estructuras de Datos
-
 **Temática Principal:** Optimización Algorítmica, TAD y Análisis de Complejidad
 
 ## Descripción del Proyecto
