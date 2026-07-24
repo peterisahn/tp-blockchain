@@ -42,5 +42,5 @@ los algoritmos para resolver las siguientes consultas:
 
 El desafío principal del proyecto radica en la transición de estructuras de datos simples (como arreglos o listas enlazadas) hacia estructuras avanzadas eficientes (tablas hash, árboles de búsqueda balanceados, heaps/colas de prioridad) según corresponda. 
 
-Cada funcionalidad de la clase `Billetera` debe ser analizada minuciosamente para reducir su complejidad temporal desde un orden ineficiente (ej. $O(n)$ o $O(n^2)$) hacia los límites óptimos requeridos por la consigna (ej. $O(1)$ o $O(log n)$).
+Cada funcionalidad de la clase `Billetera` debe ser analizada minuciosamente para reducir su complejidad temporal desde un orden ineficiente (ej. $O(n)$ o $O(n^2)$ ) hacia los límites óptimos requeridos por la consigna (ej. $O(1)$ o $O(log n)$ ).
 
