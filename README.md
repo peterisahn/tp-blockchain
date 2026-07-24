@@ -9,7 +9,7 @@
 Este proyecto consiste en la optimización y reestructuración de un prototipo funcional de **billetera virtual (Wallet)** que opera sobre una **blockchain rudimentaria**. 
 
 Si bien la implementación inicial del sistema cuenta con todas las funcionalidades requeridas, presenta graves problemas ante el escalamiento de datos. El objetivo central del trabajo es adaptar, 
-rediseñar e implementar las estructuras de datos subyacentes necesarias para que el sistema cumpla con lasrestricciones de complejidad temporal exigidas.
+rediseñar e implementar las estructuras de datos subyacentes necesarias para que el sistema cumpla con las restricciones de complejidad temporal exigidas.
 
 
 
